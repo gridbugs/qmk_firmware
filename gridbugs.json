@@ -53,7 +53,7 @@
       "KC_SPC",
       "MO(3)",
       "MO(4)",
-      "KC_SPC",
+      "KC_LSFT",
       "KC_ENT",
       "MO(7)",
       "MO(6)"
@@ -105,7 +105,7 @@
       "KC_SPC",
       "MO(3)",
       "MO(4)",
-      "KC_SPC",
+      "KC_LSFT",
       "KC_ENT",
       "MO(7)",
       "MO(6)"
