@@ -46,7 +46,7 @@
       "KC_COMM",
       "KC_DOT",
       "KC_SLSH",
-      "KC_RSFT",
+      "KC_SLSH",
       "KC_LGUI",
       "KC_LALT",
       "KC_LCTL",
@@ -55,7 +55,7 @@
       "MO(4)",
       "KC_SPC",
       "KC_ENT",
-      "KC_SLSH",
+      "KC_RSFT",
       "MO(6)"
     ],
     [
@@ -98,7 +98,7 @@
       "KC_W",
       "KC_V",
       "KC_Z",
-      "KC_RSFT",
+      "KC_SLSH",
       "KC_LGUI",
       "KC_LALT",
       "KC_LCTL",
@@ -107,7 +107,7 @@
       "MO(4)",
       "KC_SPC",
       "KC_ENT",
-      "KC_SLSH",
+      "KC_RSFT",
       "MO(6)"
     ],
     [
