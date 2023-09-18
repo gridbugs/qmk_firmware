@@ -35,3 +35,4 @@
 #    endif
 #endif
 
+#define TAPPING_TOGGLE 2
