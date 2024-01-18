@@ -18,7 +18,7 @@
       "KC_I",
       "KC_O",
       "KC_P",
-      "KC_BSPC",
+      "KC_EQL",
       "KC_ESC",
       "KC_A",
       "KC_S",
@@ -54,8 +54,8 @@
       "TT(3)",
       "TT(4)",
       "KC_ENT",
-      "KC_RCTL",
-      "KC_RSFT",
+      "KC_BSPC",
+      "KC_RALT",
       "MO(6)"
     ],
     [
@@ -70,7 +70,7 @@
       "KC_C",
       "KC_R",
       "KC_L",
-      "KC_BSPC",
+      "KC_EQL",
       "KC_ESC",
       "KC_A",
       "KC_O",
@@ -106,8 +106,8 @@
       "TT(3)",
       "TT(4)",
       "KC_ENT",
-      "KC_RCTL",
-      "KC_RSFT",
+      "KC_BSPC",
+      "KC_RALT",
       "MO(6)"
     ],
     [
