@@ -14,13 +14,13 @@ const rgblight_segment_t PROGMEM my_layer0_layer[] = RGBLIGHT_LAYER_SEGMENTS(
 );
 
 const rgblight_segment_t PROGMEM my_layer3_layer[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 62, HSV_MAGENTA}
+    {6, 1, HSV_MAGENTA}
 );
 const rgblight_segment_t PROGMEM my_layer4_layer[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 62, HSV_CYAN}
+    {37, 1, HSV_CYAN}
 );
 const rgblight_segment_t PROGMEM my_layer5_layer[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 62, HSV_GREEN}
+    {42, 1, HSV_ORANGE}
 );
 
 // Now define the array of layers. Later layers take precedence
